@@ -1,1 +1,1 @@
-# JavTraining
+# JavaTraining
